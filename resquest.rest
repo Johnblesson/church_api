@@ -1,0 +1,1 @@
+GET https://churchapi.onrender.com/api/churches
